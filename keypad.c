@@ -1,9 +1,3 @@
-/*
- * keypad.c
- *
- * Created: 5/17/2020 8:18:44 PM
- *  Author: Noah
- */ 
 
 #include "keypad.h"
 
